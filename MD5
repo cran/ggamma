@@ -1,0 +1,10 @@
+252472f53788d7282a08359e403640d8 *DESCRIPTION
+c9b00e5b9ea389b377cf09087934fced *LICENSE
+8127bdddb8c6fb4d9af3f6d5800067bb *NAMESPACE
+d41d8cd98f00b204e9800998ecf8427e *R/ggamma-deprecated.R
+531c5ae73ffefca89b14f0e681cb7859 *R/ggamma-package.R
+7b0e0f5331a746e5fb0df5ae55dd0909 *R/ggamma.R
+80752dd73e755cb8b0dc7e53bd5960a4 *man/G.Gamma.Rd
+4e58a6b6686cdcde593d6dafa212c9f9 *man/ggamma.Rd
+052a3f22baacc629ec4cd6787e78defa *tests/testthat.R
+7f1eb098addce7a5c9c2b8586e41dadc *tests/testthat/test_ggamma.R
